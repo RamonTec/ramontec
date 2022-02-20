@@ -2,7 +2,7 @@
 
 I am Anirudh Emmadi, people call me Ani, currently pursuing my bachelor's degree majoring in computer science from [The Univesity of Texas at Dallas](https://utdallas.edu/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-elías-estrabao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/el%C3%ADas-estrabao/)](https://www.linkedin.com/in/el%C3%ADas-estrabao/)
+[![Linkedin Badge](https://img.shields.io/badge/-elíasestrabao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/el%C3%ADas-estrabao/)](https://www.linkedin.com/in/el%C3%ADas-estrabao/)
 [![Instagram Badge](https://img.shields.io/badge/-es_quijada-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/es_quijada/)](https://www.instagram.com/es_quijada/)
 [![Gmail Badge](https://img.shields.io/badge/-eestrabao46@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eestrabao46@gmail.com)](mailto:eestrabao46@gmail.com)
 
