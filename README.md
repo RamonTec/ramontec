@@ -1,6 +1,6 @@
 ## May the force be with you! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-Soy Elias Estrabao. Programador Full Stack Web, actualmente estudiante de platzi.com, buscando a especializarme en el stack de JavaScript. Estoy abierto para colaboraciones a ideas innovadoras, para ayudar y brindar apollo. Me pueden contactar por:
+Soy Elias Estrabao. Programador Full Stack Web, actualmente estudiante de platzi.com, buscando a especializarme en el stack de JavaScript. Estoy abierto para colaboraciones a ideas innovadoras, para ayudar y brindar apoyo. Me pueden contactar por:
 
 [![Linkedin Badge](https://img.shields.io/badge/-elíasestrabao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/el%C3%ADas-estrabao/)](https://www.linkedin.com/in/el%C3%ADas-estrabao/)
 [![Instagram Badge](https://img.shields.io/badge/-es_quijada-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/es_quijada/)](https://www.instagram.com/es_quijada/)
