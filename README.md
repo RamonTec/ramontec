@@ -1,6 +1,20 @@
 ## May the force be with you! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-Soy Elias Estrabao. Programador Full Stack Web, actualmente estudiante de platzi.com, buscando a especializarme en el stack de JavaScript. Estoy abierto para colaboraciones a ideas innovadoras, para ayudar y brindar apoyo. Me pueden contactar por:
+# Elias Estrabao | Full Stack Developer
+¡Hola! Mi enfoque principal es el ecosistema de JavaScript/TypeScript, donde me desemvuelvo como desarrollador Frontend y desarrollo backend considerando arquitecturas de servidor escalables.
+
+# En qué me enfoco
+Diseño soluciones. Mi flujo de trabajo se basa en:
+Arquitectura: Clean Architecture, Domain-Driven Design (DDD) y SOLID.
+Calidad: Testing automatizado y TDD como estándar de desarrollo.
+Producto: Desde el prototipado en Figma hasta el levantamiento de requerimientos funcionales y no funcionales.
+
+# Aprendizaje Continuo
+Actualmente profundizando mis conocimientos en Platzi para dominar las últimas tendencias del stack JS y arquitectura de sistemas.
+
+# Colaboración
+Estoy abierto a colaborar en proyectos innovadores y mentorías. Si tienes una idea que desafíe lo convencional, ¡hablemos!
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-elíasestrabao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/el%C3%ADas-estrabao/)](https://www.linkedin.com/in/el%C3%ADas-estrabao/)
 [![Instagram Badge](https://img.shields.io/badge/-es_quijada-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/es_quijada/)](https://www.instagram.com/es_quijada/)
