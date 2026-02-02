@@ -1,6 +1,4 @@
-## May the force be with you! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-
-# Elias Estrabao | Full Stack Developer
+# Elias Estrabao | Full Stack Developer | May the force be with you! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 ¡Hola! Mi enfoque principal es el ecosistema de JavaScript/TypeScript, donde me desemvuelvo como desarrollador Frontend y desarrollo backend considerando arquitecturas de servidor escalables.
 
 # En qué me enfoco
