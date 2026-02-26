@@ -1,17 +1,18 @@
-# Elias Estrabao | Full Stack Developer | May the force be with you! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-¡Hola! Mi enfoque principal es el ecosistema de JavaScript/TypeScript, donde me desemvuelvo como desarrollador Frontend y desarrollo backend considerando arquitecturas de servidor escalables.
+# Elias Estrabao | Full‑Stack Developer | May the force be with you! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-# En qué me enfoco
-Diseño soluciones. Mi flujo de trabajo se basa en:
-Arquitectura: Clean Architecture, Domain-Driven Design (DDD) y SOLID.
-Calidad: Testing automatizado y TDD como estándar de desarrollo.
-Producto: Desde el prototipado en Figma hasta el levantamiento de requerimientos funcionales y no funcionales.
+Hello! My main focus is the JavaScript/TypeScript ecosystem, where I work as a Front‑end developer and also build back‑ends using scalable server architectures.
 
-# Aprendizaje Continuo
-Actualmente profundizando mis conocimientos en Platzi para dominar las últimas tendencias del stack JS y arquitectura de sistemas.
+## What I Focus On
+I design solutions. My workflow revolves around:
+- **Architecture:** Clean Architecture, Domain‑Driven Design (DDD) and SOLID principles.  
+- **Quality:** Automated testing and TDD as development standards.  
+- **Product:** From Figma prototyping to gathering functional and non‑functional requirements.
 
-# Colaboración
-Estoy abierto a colaborar en proyectos innovadores y mentorías. Si tienes una idea que desafíe lo convencional, ¡hablemos!
+## Continuous Learning
+I’m currently deepening my knowledge on Platzi to master the latest trends in the JS stack and system architecture.
+
+## Collaboration
+I’m open to collaborating on innovative projects and mentorships. If you have an idea that challenges the conventional, let’s talk!
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-elíasestrabao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/el%C3%ADas-estrabao/)](https://www.linkedin.com/in/el%C3%ADas-estrabao/)
