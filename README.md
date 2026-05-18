@@ -14,6 +14,7 @@ I design solutions that prevent technical debt.
 
 *   **[Wheelers] (Link to repo):** A collectible car management REST API built with **NestJS**. Demonstrates real-world implementation of Clean Architecture, custom database schemas, and decoupled business logic.
 *   **[Typify] (Link to repo):** A developer utility tool that converts JSON objects into strict TypeScript interfaces. Built with **React + Vite + Tailwind**, demonstrating advanced frontend state management and precise typing logic.
+*   **[Trading Bot] (https://github.com/RamonTec/trading_bot):** A trading bot made with python, intergating binance testnet and LLM from ollama to make orders like buy and sell
 
 ## ⚡ Core Stack
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
