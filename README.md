@@ -12,6 +12,7 @@ I design solutions that prevent technical debt.
 ## 💻 Featured Engineering
 *   **[Pokedex] (https://github.com/RamonTec/pokedex-nextjs):** Project where i query and show pokemons, also, focused on how to optimize images with nextjs to avoid image overload, build with nextjs, tailwind and MUI.
 *   **[Wheelers] (Link to repo):** A collectible car management REST API built with **NestJS**. Demonstrates real-world implementation of Clean Architecture, custom database schemas, and decoupled business logic.
+*   **[Pescaderia Altamar] (https://github.com/RamonTec/pescaderia-altamar):** Altamar Sea Food is a specialized internal ERP and inventory management system designed for seafood wholesalers and retailers operating in Venezuela.
 *   **[Typify] (https://github.com/RamonTec/typify):** A developer utility tool that converts JSON objects into strict TypeScript interfaces. Built with **React + Vite + Tailwind**, demonstrating advanced frontend state management and precise typing logic.
 *   **[Trading Bot] (https://github.com/RamonTec/trading_bot):** A trading bot made with python, intergating binance testnet and LLM from ollama to make orders like buy and sell
 
